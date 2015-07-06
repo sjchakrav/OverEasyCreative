@@ -9,6 +9,7 @@ body {
 }
 #text {
   z-index:100;
+  font-size: 25px;
   position:absolute;
   color:white;
 }
