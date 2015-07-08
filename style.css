@@ -4,12 +4,7 @@ body { background:url(http://i.imgur.com/lmvexEq.jpg) no-repeat center center fi
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-
 }
-
-/************************************
-SECTIONa
-************************************/
 section{
   color:white;
   font-family:Raleway;
@@ -26,18 +21,12 @@ section{
   }
 }
 
-/************************************
-MY BLACK OVERLAY
-************************************/
 .black{
   background:rgba(0,0,0,0.5);
   padding:20px 40px 20px 40px;
   border-top:1px solid rgba(255,255,255,0.2);
 }
 
-/************************************
-SOME PADDING
-************************************/
 .white{
   padding:20px 40px 20px 40px;
 }
@@ -135,8 +124,6 @@ opacity: 0.5;
 
   color:#fff;
   background-color:#333;
-
-
 }
 
 label {
